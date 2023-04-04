@@ -1,0 +1,37 @@
+#include <stdio.h>
+int main()
+{
+printf("            COMSATS UNIVERSITY LAHORE\n");
+printf("         \n");
+printf("         \n");
+printf("         \n");
+printf("ADMISSION FORM\n");
+printf("         \n");
+printf("         \n");
+printf("STUDENT NAME _______________________________________________________\n");
+printf("         \n");
+printf("         \n");
+printf("FATHER'S NAME ________________________________________________________\n");
+printf("         \n");
+printf("         \n");
+printf("DATE OF BIRTH __/__/__               GENDER O MALE O FEMALE\n");
+printf("         \n");
+printf("         \n");
+printf("CNIC _____________________           FATHER'S CNIC ___________________________\n");
+printf("         \n");
+printf("         \n");
+printf("POSTAL ADDRESS _______________________________________________________________\n");
+printf("         \n");
+printf("         \n");
+printf("PERMANENT ADDRESS ____________________________________________________________\n");
+printf("         \n");
+printf("         \n");
+printf("CELL NO _______________              FATHER'S CELL NO ________________________\n");
+printf("         \n");
+printf("         \n");
+printf("NATIONALITY ___________              STATUS O SINGLE O MARRIED\n");
+printf("         \n");
+printf("         \n");
+printf("SIGNATURE ___________                ADMINISTRATOR'S SIGNATURE ________________\n");
+return 0;
+}
